@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\components\\auditlogview.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\components\\auditlogview.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\components\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\components\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\constants.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\constants.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\components\\staffmanagement.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\components\\staffmanagement.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\components\\infrastructuremap.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\components\\infrastructuremap.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\components\\dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\components\\dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\controllers\\shiftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:controllers\\shiftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\components\\calendarview.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\components\\calendarview.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\models\\nocmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:models\\nocmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|c:\\users\\irish\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\noc_management_app\\client-app\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0A19A200-A247-48CE-BACE-32F77DA5D86A}|NOC_Management_App.csproj|solutionrelative:client-app\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditLogView.tsx",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\AuditLogView.tsx",
+              "RelativeDocumentMoniker": "client-app\\src\\components\\AuditLogView.tsx",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\AuditLogView.tsx",
+              "RelativeToolTip": "client-app\\src\\components\\AuditLogView.tsx",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-28T14:56:46.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\App.tsx",
+              "RelativeDocumentMoniker": "client-app\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\App.tsx",
+              "RelativeToolTip": "client-app\\src\\App.tsx",
+              "ViewState": "AgIAADgBAAAAAAAAAAAMwIwBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-24T14:00:29.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaffManagement.tsx",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\StaffManagement.tsx",
+              "RelativeDocumentMoniker": "client-app\\src\\components\\StaffManagement.tsx",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\StaffManagement.tsx",
+              "RelativeToolTip": "client-app\\src\\components\\StaffManagement.tsx",
+              "ViewState": "AgIAANQAAAAAAAAAAAAcwPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-27T19:15:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\tsconfig.json",
+              "RelativeDocumentMoniker": "client-app\\tsconfig.json",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\tsconfig.json",
+              "RelativeToolTip": "client-app\\tsconfig.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T14:51:44.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\Login.tsx",
+              "RelativeDocumentMoniker": "client-app\\src\\components\\Login.tsx",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\Login.tsx",
+              "RelativeToolTip": "client-app\\src\\components\\Login.tsx",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-24T13:59:58.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "types.ts",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\types.ts",
+              "RelativeDocumentMoniker": "client-app\\src\\types.ts",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\types.ts",
+              "RelativeToolTip": "client-app\\src\\types.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-28T13:10:04.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuditController.cs",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Controllers\\AuditController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuditController.cs",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Controllers\\AuditController.cs",
+              "RelativeToolTip": "Controllers\\AuditController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:38:32.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAswLQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:46:17.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:22:15.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InfrastructureMap.tsx",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\InfrastructureMap.tsx",
+              "RelativeDocumentMoniker": "client-app\\src\\components\\InfrastructureMap.tsx",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\InfrastructureMap.tsx",
+              "RelativeToolTip": "client-app\\src\\components\\InfrastructureMap.tsx",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAqwBwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-24T14:49:21.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShiftsController.cs",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Controllers\\ShiftsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShiftsController.cs",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Controllers\\ShiftsController.cs",
+              "RelativeToolTip": "Controllers\\ShiftsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAxwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:46:41.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "constants.ts",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\constants.ts",
+              "RelativeDocumentMoniker": "client-app\\src\\constants.ts",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\constants.ts",
+              "RelativeToolTip": "client-app\\src\\constants.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-24T15:01:59.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T14:27:12.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:26:10.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.tsx",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\Dashboard.tsx",
+              "RelativeDocumentMoniker": "client-app\\src\\components\\Dashboard.tsx",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\Dashboard.tsx",
+              "RelativeToolTip": "client-app\\src\\components\\Dashboard.tsx",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAqwMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-20T17:05:36.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalendarView.tsx",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\CalendarView.tsx",
+              "RelativeDocumentMoniker": "client-app\\src\\components\\CalendarView.tsx",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\components\\CalendarView.tsx",
+              "RelativeToolTip": "client-app\\src\\components\\CalendarView.tsx",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAAwKwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-24T14:49:37.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NocModels.cs",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Models\\NocModels.cs",
+              "RelativeDocumentMoniker": "Models\\NocModels.cs",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\Models\\NocModels.cs",
+              "RelativeToolTip": "Models\\NocModels.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAxwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:31:47.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "server.ts",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\server.ts",
+              "RelativeDocumentMoniker": "server.ts",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\server.ts",
+              "RelativeToolTip": "server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-24T14:16:10.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\main.tsx",
+              "RelativeDocumentMoniker": "client-app\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\main.tsx",
+              "RelativeToolTip": "client-app\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-27T19:23:05.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\tailwind.config.js",
+              "RelativeDocumentMoniker": "client-app\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\tailwind.config.js",
+              "RelativeToolTip": "client-app\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-20T16:06:04.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\index.css",
+              "RelativeDocumentMoniker": "client-app\\src\\index.css",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\src\\index.css",
+              "RelativeToolTip": "client-app\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-20T16:06:29.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "postcss.config.js",
+              "DocumentMoniker": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\postcss.config.js",
+              "RelativeDocumentMoniker": "client-app\\postcss.config.js",
+              "ToolTip": "C:\\Users\\irish\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\NOC_Management_App\\client-app\\postcss.config.js",
+              "RelativeToolTip": "client-app\\postcss.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-20T16:05:14.411Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
